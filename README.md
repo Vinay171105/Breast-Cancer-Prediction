@@ -25,6 +25,6 @@ Algorithms Used:
 
 Dataset:
 
-=> The dataset used is the Breast Cancer Wisconsin (Diagnostic) Dataset, available via:
+=> The dataset used is the Breast Cancer(Diagnostic) Dataset, available via:
 
            sklearn.datasets.load_breast_cancer()
